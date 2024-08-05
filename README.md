@@ -1,7 +1,7 @@
 # developerAfrasyab
 const aboutMuhammadAfrasyab = {
     fullName: "Muhammad Afrasyab",
-    pronouns: ["He", "Him"],![github](https://github.com/user-attachments/assets/5f2353ef-6c5f-4287-9634-dc288acee2f2)
+    pronouns: ["He", "Him"],
 
     nationality: "Pakistan",
     jobStatus: ["Front-end Developer"],
@@ -18,3 +18,4 @@ const aboutMuhammadAfrasyab = {
     nowLearning: ["React Native"],
     lookingForNewOpportunities: true    
 }
+![github](https://github.com/user-attachments/assets/57cc2efe-5d33-496c-9c75-442c37228e19)
