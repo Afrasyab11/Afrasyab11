@@ -21,7 +21,7 @@ const aboutMuhammadAfrasyab = {
 
 
 
-![github](https://github.com/user-attachments/assets/57cc2efe-5d33-496c-9c75-442c37228e19)
+                                      ![github](https://github.com/user-attachments/assets/57cc2efe-5d33-496c-9c75-442c37228e19)
 
 
 
