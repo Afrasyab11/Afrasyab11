@@ -1,7 +1,8 @@
 # developerAfrasyab
 const aboutMuhammadAfrasyab = {
     fullName: "Muhammad Afrasyab",
-    pronouns: ["He", "Him"],
+    pronouns: ["He", "Him"],![github](https://github.com/user-attachments/assets/5f2353ef-6c5f-4287-9634-dc288acee2f2)
+
     nationality: "Pakistan",
     jobStatus: ["Front-end Developer"],
     hobbies: ["Watching documentaries","Cricktet","Solving coding challenges"],
