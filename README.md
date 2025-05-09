@@ -1,5 +1,5 @@
 # developerAfrasyab
-const aboutMuhammadAfrasyab = {
+const about MuhammadAfrasyab = {
     fullName: "Muhammad Afrasyab",
     pronouns: ["He", "Him"],
 
@@ -12,7 +12,7 @@ const aboutMuhammadAfrasyab = {
         bachlorsDegree: "BS in Computer Science",
         isCompleted: true,
     },
-    Email: "makust7@gmail.com",
+    Email: "afrasyab.dev@gmail.com",
     socialMedias: ["Linkedin", "Facebook"],
     codingEnviroment: "Github",
     nowLearning: ["React Native"],
